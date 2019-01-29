@@ -1,16 +1,3 @@
-# Vegan Whole Foods Bulk
-
-## Supplements
-
-Each morning:
-* D3
-* B12
-* DHA
-
-Protein shake reference:
-* 2 scoops of vegan protein powder mixed with water.
-* **120** kcal, **30g** protein
-
 ## Monday
 
 1 protein shake inbetween meals. (**120** kcal, **30g** protein)
@@ -21,7 +8,7 @@ Ingredients:
 * 500g Soy milk
 * 4 medium (400g) bananas
 * 66g (2dl) Oats
-* 113g blueberries
+* 113g frozen blueberries
 
 **850** kcal, **32g** protein
 
@@ -53,4 +40,3 @@ Instructions:
 ### Monday totals
 * 2190 kcal
 * 112g protein
-

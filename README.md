@@ -1,2 +1,2 @@
 # Meal Plans
-* [vegan whole foods bulk](./vegan/vegan-whole-foods-bulk.md)
+* [vegan whole foods bulk](./vegan/whole-foods-bulk/vegan-whole-foods-bulk.md)
